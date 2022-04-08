@@ -500,3 +500,9 @@ body {
     font-size: 10px;
     padding: 10px;
 }
+
+.card-mobil {
+    height: auto;
+    padding: 20px;
+    background-color: #0D28A6;
+}
